@@ -8,3 +8,9 @@ We saw that Covid-19 definitely affected our life in many ways, and it is import
 Our aim is not to really predict the future, but more about learning Data Science. We hope we could get feedback on our work, and willing to learn about what we can improve in future : D
 
 Devpost link: [Corona Virus Prediction Model](https://devpost.com/software/corona-virus-prediction-model)
+
+By:
+[Henry Koh]https://github.com/hanyikoh
+[Liew Kuan Yung]https://github.com/LiewKuanYung
+[Ivan Yap]https://github.com/ivanyap0612
+[Kyle Lim]https://github.com/kyle-lyk

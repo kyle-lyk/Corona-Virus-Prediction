@@ -10,7 +10,7 @@ Our aim is not to really predict the future, but more about learning Data Scienc
 Devpost link: [Corona Virus Prediction Model](https://devpost.com/software/corona-virus-prediction-model)
 
 By:
-[Henry Koh](https://github.com/hanyikoh)
-[Liew Kuan Yung](https://github.com/LiewKuanYung)
-[Ivan Yap](https://github.com/ivanyap0612)
-[Kyle Lim](https://github.com/kyle-lyk)
+[Henry Koh](https://github.com/hanyikoh) <br>
+[Liew Kuan Yung](https://github.com/LiewKuanYung) <br>
+[Ivan Yap](https://github.com/ivanyap0612) <br>
+[Kyle Lim](https://github.com/kyle-lyk) <br>

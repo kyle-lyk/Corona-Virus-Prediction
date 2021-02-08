@@ -15,6 +15,7 @@ We started by doing some simple analysis of the dataset. After collecting some i
 ------
 
 Devpost link: [Corona Virus Prediction Model](https://devpost.com/software/corona-virus-prediction-model)
+Model Outline Video: [Presented by Henry Koh](https://www.youtube.com/watch?v=ylXHFLKTybg)
 
 By: <br>
 [Henry Koh](https://github.com/hanyikoh) <br>
